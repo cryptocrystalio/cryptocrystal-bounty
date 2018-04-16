@@ -26,6 +26,11 @@ https://rinkeby.etherscan.io/address/0x0945884e5ccb5c5bc977a6c49e87bc72c9a77f44#
 
 CryptoCrystal is mined with the transaction of Pickaxes(ERC20 Token).More than Two CryptoCrystals can be melted as a new CryptoCrystal. 
 
+### See full basic operations here
+
+https://github.com/cryptocrystalio/cryptocrystal-bounty/blob/master/basic.md
+
+
 ## The Scope for this Bounty Program:
 
 This bounty program will run within the Rinkeby network from  08:00 GMT April 16th -08:00 GMT April 21th, 2018. All code important to this bounty program is publicly available within this repo Help us identify bugs, vulnerabilities, and exploits in the smart contract such as:
