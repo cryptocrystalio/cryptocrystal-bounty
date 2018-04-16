@@ -3,13 +3,10 @@
 CryptoCrystal is composed of 4 public facing contracts. 
 Below we'll provide an overview on these contract
 
-
 CryptoCrystal - this contract managed the application logic.(Facade Contract)
 
 Also referred as the main contract. This mediates the main operations, such as mine, melt, exchange and transfer of Crystals and Picaxe. 
 And this contract handle Execution of the transaction below three contracts - Pickaxe,ExchangeBase,Crystal.
-
-
 
 Pickaxe(ERC20) -
 
@@ -57,7 +54,4 @@ user can get a crystal data (CrystalBase  getCrystal())
 user can get thier all crystals data (CrystalBase getCrystals())
 user can check info of a crystal that is in the exibition (ExchangeBase getExchange())
 
-
-#COO can transfer the balance from auctions (Main withdrawAuctionBalances())
-#CFO can drain funds from main contract (Main withdrawBalance())
 
