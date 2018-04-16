@@ -1,10 +1,10 @@
-# The CryptoCrystal Bounty Program 
+# The CryptoCrystal Bug Bounty Program 
 
 Thank you everyone for your participation!!
 We recognize the importance of security researchers in keeping our community and decentralized application safe and fun. 
 With the launch of CryptoCrystal , we would love the community to help provide disclosure of security vulnerabilities via our bounty program described below.
 
-***
+
 
 ## What you Should Know About CryptoCrystals:
 
@@ -17,7 +17,6 @@ CryptoCrystal guarantees Unique Digital Scarcity by the smart contract.In Crypto
 
 ![alt](https://cdn-images-1.medium.com/max/1600/1*0iNyqlenha-Ja1RnilTE0w.png)
 
-***
 
 *CryptoCrystal* is built on the Ethereum network; ether will be necessary to fuel transactions, which include mining, trading, and melting CryptoCrystals.
 
@@ -39,7 +38,6 @@ Complete something without Pickaxes or Ether.
 Steal a eth from admin
 Any sort of malfunction
 
-***
 
 ## Rules & Rewards:
 
